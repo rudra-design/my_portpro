@@ -1,0 +1,49 @@
+html{
+    background:#F9F9E0;
+}
+#heading1{
+    color:#3AA6B9;
+    font-family: "Titillium Web", sans-serif;
+    font-style:normal;
+    font-weight: 700;
+}
+
+#heading2{
+    color:#FF9EAA;
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+}
+#div-link{
+    border:2px solid ;
+    height:20px;
+    width:90px;
+    padding: 2px;
+    background:#FFD0D0;
+}
+#link1{
+    color:black;
+    height:50px;
+}
+#link2{
+    color:black;
+    width: 40px;
+    padding: 2px;
+}
+#link3{
+    color:black;
+    height:50px ;
+    padding:2px;
+}
+#heading3{
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    color:#FF9EAA;
+}
+#heading4{
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    color:#FF9EAA;
+}
